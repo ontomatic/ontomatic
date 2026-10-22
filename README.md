@@ -11,7 +11,7 @@ uv venv .venv
 # Windows
 .venv\bin\activate.bat
 # macOS
-source .venv/bin/activate
+source .venv/script/activate
 
 uv sync --all-package --locked
 ```
