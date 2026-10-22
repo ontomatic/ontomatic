@@ -41,3 +41,5 @@ def create_admin() -> None:
 
 if __name__ == '__main__':
   create_admin()
+
+## 윤수아 짱
