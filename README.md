@@ -9,7 +9,7 @@ cd ontomatic
 uv venv .venv
 
 # Windows
-.venv\bin\activate.bat
+.venv\Scripts\activate.bat
 # macOS
 source .venv/bin/activate
 
@@ -40,3 +40,6 @@ uv run --package backend api
 cd packages/frontend
 uv run streamlit run app.py
 ```
+
+
+# 메롱메롱메롱 메롱메롱메롱 
