@@ -9,7 +9,7 @@ cd ontomatic
 uv venv .venv
 
 # Windows
-.venv\bin\activate.bat
+.venv\bin\activate.ba
 # macOS
 source .venv/bin/activate
 
